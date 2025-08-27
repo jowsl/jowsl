@@ -1,6 +1,5 @@
 ## Olá!
 
-- 🔭 Atualmente procurando estágio em desenvolvimento ou ciência de dados.
 - 🤔 Estudando C++ e Python
 
 <div style="display: inline_block"><br>
